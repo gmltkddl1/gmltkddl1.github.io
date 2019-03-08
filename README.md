@@ -1,2 +1,5 @@
-![thumb_30x40_po1wf0_ki0v-1ph83mp_kakaotalk20190308230229905](https://user-images.githubusercontent.com/19207256/54033987-241c3000-41f9-11e9-9365-1ed16d358a72.jpg)
-20143567 
+![kakaotalk_20190308_230229905](https://user-images.githubusercontent.com/19207256/54034187-9856d380-41f9-11e9-919d-f8d4dbf12ccd.jpg)
+
+20143567 이희상
+
+2014.03 ~  중앙대 재학중
