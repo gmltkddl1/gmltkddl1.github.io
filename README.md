@@ -3,3 +3,4 @@
 20143567 이희상
 
 2014.03 ~  중앙대 재학중
+https://zoom.us/j/99893045476?pwd=N3NrY1A0bWJRUTRRMmpBVW52S0JCZz09
