@@ -1,0 +1,67 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://github.com/gmltkddl1/gmltkddl1.github.io/</id>
+  <title>먹고살려고하는 공부</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-05-07T15:04:38+08:00</updated>
+  <author>
+    <name>heesang</name>
+    <uri>https://github.com/gmltkddl1/gmltkddl1.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://github.com/gmltkddl1/gmltkddl1.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://github.com/gmltkddl1/gmltkddl1.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 heesang </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>블로그를 시작하며</title>
+    <link href="https://github.com/gmltkddl1/gmltkddl1.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/" rel="alternate" type="text/html" title="블로그를 시작하며" />
+    <published>2025-05-07T00:00:00+08:00</published>
+  
+    <updated>2025-05-07T00:00:00+08:00</updated>
+  
+    <id>https://github.com/gmltkddl1/gmltkddl1.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/</id>
+    <content type="text/html" src="https://github.com/gmltkddl1/gmltkddl1.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0/" />
+    <author>
+      <name>heesang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>블로그를 시작하며오늘은 긴 연휴에 끝에서 뭐하나라도하자는 마인드로 그동안 미루고 미루고 미뤄왔던 학습기록용 깃허브 블로그를 만들었다.블로그를 만든 이유는 학습에 대한 기록을 남기기 위해서이다.기록을 남기는 이유는 첫째로는 추후 남에게 나의 지속적인 학습과정을 증명하기 위해서두번째로는 끝없이 학습해야 살아남을 수 있는 현재 세상에서 AI에 대체되지 않으며 먹고 살기위해서 학습의 동기 부여가 필요하기 때문이다.한달에 최소 1개의 글 작성을 목표로 시작하려고 한다.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Tdd Kotlin</title>
+    <link href="https://github.com/gmltkddl1/gmltkddl1.github.io/posts/TDD-kotlin/" rel="alternate" type="text/html" title="Tdd Kotlin" />
+    <published>2025-05-07T00:00:00+08:00</published>
+  
+    <updated>2025-05-07T00:00:00+08:00</updated>
+  
+    <id>https://github.com/gmltkddl1/gmltkddl1.github.io/posts/TDD-kotlin/</id>
+    <content type="text/html" src="https://github.com/gmltkddl1/gmltkddl1.github.io/posts/TDD-kotlin/" />
+    <author>
+      <name>heesang</name>
+    </author>
+
+  
+    
+  
+
+  <summary>TDD 클린 코드 with KotlinTDD 개발 사이클테스트 코드 작성 (RED)구현하여 테스트 코드 통과하도록 만듬*그린)리팩토링 리팩토링 메소드 분리 한 메서드에 오직 한 단계의 들여쓰기만 한다.함수가 한 가지 일만 잘 하도록 구현한다.함수가 15줄이 넘어가지 않게 한다.클래스 분리 모든 원시 값과 문자열을 포장한다.3개 이상의 인스턴스 변수를 가진 클래스를 쓰지 않는다.일급 컬렉션을 쓴다.함수의 인자 수를 최소화한다.함수에서 이상적인 인자 개수는 0개(무항)이다. 다음은 1개이고, 다음은 2개이다.3개는 가능한 피하는 편이 좋다. 4개 이상은 특별한 이유가 있어도 사용하면 안 된다.private 함수를 테스트하고 싶다. 상속과 위임구체 클래스에 대한 상속은 보통 LSP위반상속은 abstract ...</summary>
+
+  </entry>
+
+</feed>
+
+
