@@ -12,6 +12,10 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
 end
 
+group :test do
+  gem "html-proofer", "~> 5.0"
+end
+
 gem "wdm", "~> 0.2.0", platforms: [:mingw, :x64_mingw, :mswin]
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
